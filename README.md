@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-Only use if you're me, or if your last name is Keeter. LOL.
+```ruby
+KeeterViewTool::Renderer.copyright 'Alec Keeter', 'All rights reserved'
+```
 
 ## Development
 
