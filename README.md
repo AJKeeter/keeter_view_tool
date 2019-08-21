@@ -1,9 +1,6 @@
 # KeeterViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/keeter_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
+> Various view specific copyright methods for rails applications.
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -22,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Only use if you're me, or if your last name is Keeter. LOL.
 
 ## Development
 
